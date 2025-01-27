@@ -1,0 +1,5 @@
+authlib~=1.4.0
+werkzeug
+flask~=3.1.0
+requests~=2.32.3
+jose~=1.0.0
