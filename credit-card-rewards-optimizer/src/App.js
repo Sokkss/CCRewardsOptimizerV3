@@ -1,10 +1,11 @@
 import './App.css';
-import SiteNav from './components/common/SiteNav';
-import SiteFooter from './components/common/SiteFooter';
+
 import HomePage from './components/home/HomePage';
 import { Route, Routes } from 'react-router-dom';
 import LoginPage from './components/auth/LoginPage';
 import RegisterPage from './components/auth/RegisterPage';
+import SiteNav from './components/common/SiteNav';
+import SiteFooter from './components/common/SiteFooter';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
